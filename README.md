@@ -23,19 +23,20 @@ No additional libraries are required beyond the Python standard library.
    git clone https://github.com/xboxhacker/csv-to-qbo-converter.git
 
 ## Usage
-1. Convert CSV to QBO:
+1. **Convert CSV to QBO:**
    - Click "Convert CSV to QBO"
    - Select your CSV file in the file dialog
    - Choose a name and location for the output QBO file
    - Success or error messages will appear accordingly
   
-2. View QBO File:
+2. **View QBO File:**
    - Click "View QBO File"
    - Select a QBO file to open
    - View the formatted contents in the text area
-   - Expected CSV Format
 
-## The CSV file should have the following columns:
+     
+# Expected CSV Format
+**The CSV file should have the following columns:**
 
    - 	`Date` (MM/DD/YYYY format)
    - 	`Description` (transaction description)
