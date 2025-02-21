@@ -20,4 +20,6 @@ No additional libraries are required beyond the Python standard library.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/csv-to-qbo-converter.git
+   git clone https://github.com/xboxhacker/csv-to-qbo-converter.git
+
+   
